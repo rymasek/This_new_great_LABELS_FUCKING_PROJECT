@@ -18,6 +18,14 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    private MainActivity() {
+
+    }
+
+    private void Blow() {
+        // nothing here
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
